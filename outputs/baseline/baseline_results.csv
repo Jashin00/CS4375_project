@@ -1,0 +1,4 @@
+Model,ROC-AUC,Macro F1,Micro F1,Hamming Loss,Precision,Recall
+Logistic Regression (TF-IDF),0.9786,0.5616,0.6737,0.0304,0.4502,0.8124
+LinearSVC (TF-IDF),0.9715,0.5446,0.7152,0.0184,0.7255,0.4541
+Naive Bayes (TF-IDF),0.9452,0.4854,0.6065,0.0325,0.4332,0.5639

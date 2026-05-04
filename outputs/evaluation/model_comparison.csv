@@ -1,0 +1,4 @@
+Model,ROC-AUC,Macro F1,Micro F1,Precision,Recall,Hamming Loss
+Logistic Regression,0.9786,0.5616,0.6737,0.4502,0.8124,0.0304
+LinearSVC,0.9715,0.5446,0.7152,0.7255,0.4541,0.0184
+BERT (fine-tuned),0.9885,see bert output,see bert output,—,—,—
